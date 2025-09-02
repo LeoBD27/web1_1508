@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+
+header{
+    background-color: hsl(0, 0%, 53%);
+}
+
+main{
+    background-color: rgb(135, 230, 217);
+}
+
+section{
+    background-color: rgb(207, 165, 97);
+}
+
+footer{
+    background-color: rgb(103, 221, 151);
+}
